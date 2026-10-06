@@ -1,0 +1,1 @@
+var e=`/assets/katarzyna-portret-9r7kbm0S.png`;export{e as t};
